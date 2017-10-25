@@ -1,0 +1,1 @@
+python label_image.py --graph=/home/ahmer/Tecknow/TensorFlow-Retraining/output_tecknow_graph.pb --labels=/home/ahmer/Tecknow/TensorFlow-Retraining/output_tecknow_labels.txt --image=/home/ahmer/Tecknow/cars_train/00002.jpg --input_layer=input --output_layer=final_result --input_mean=128 --input_std=128 --input_width=224 --input_height=224
